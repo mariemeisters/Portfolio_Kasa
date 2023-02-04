@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio_Kasa/static/css/main.47d956b2.css",
+    "main.js": "/Portfolio_Kasa/static/js/main.deff8728.js",
+    "static/js/787.7158891d.chunk.js": "/Portfolio_Kasa/static/js/787.7158891d.chunk.js",
+    "static/media/bannerApropos.png": "/Portfolio_Kasa/static/media/bannerApropos.fce6fc3e9ed27433e9b0.png",
+    "static/media/bannerHome.png": "/Portfolio_Kasa/static/media/bannerHome.efc1935eb81fc5e585f9.png",
+    "static/media/bannerAproposMobile.png": "/Portfolio_Kasa/static/media/bannerAproposMobile.40c3d9bcd588a199d69e.png",
+    "static/media/bannerHomeMobile.png": "/Portfolio_Kasa/static/media/bannerHomeMobile.f9f1a5d16f2d13a6a9ff.png",
+    "static/media/LOGO_footer.svg": "/Portfolio_Kasa/static/media/LOGO_footer.ee689fd9409d1b5a898b4247819d8a00.svg",
+    "static/media/Logo.svg": "/Portfolio_Kasa/static/media/Logo.6d7d8085415a6dbe96e2d6d46bd1e53e.svg",
+    "index.html": "/Portfolio_Kasa/index.html",
+    "static/media/arrowCarrousel.svg": "/Portfolio_Kasa/static/media/arrowCarrousel.19918a1634b1441a25ae0b50e6b1f85b.svg",
+    "static/media/starEmptyRating.svg": "/Portfolio_Kasa/static/media/starEmptyRating.7e4ba6032d7d80ecc30aa389973cef95.svg",
+    "static/media/starFullRating.svg": "/Portfolio_Kasa/static/media/starFullRating.6430150c126a3adf92c132c52c9c7428.svg",
+    "main.47d956b2.css.map": "/Portfolio_Kasa/static/css/main.47d956b2.css.map",
+    "main.deff8728.js.map": "/Portfolio_Kasa/static/js/main.deff8728.js.map",
+    "787.7158891d.chunk.js.map": "/Portfolio_Kasa/static/js/787.7158891d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47d956b2.css",
+    "static/js/main.deff8728.js"
+  ]
+}
